@@ -1,5 +1,0 @@
-<Modules>
-  <Module PersistentId="F78E4B10-1E1A-440F-9812-F2F2C9C87B16" ModuleId="Owin.Handlers.Wcf" />
-  <Module PersistentId="163A0E93-A512-4B2F-AF1A-301804749EDE" ModuleId="Owin.Common" />
-  <Module PersistentId="8EF793AF-AD17-49D3-8884-A8AFEC75641D" ModuleId="Owin.Handlers.AspNet" />
-</Modules>
