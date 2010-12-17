@@ -2,6 +2,11 @@
 *.suo
 bin
 obj
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
 TestResult.xml
 examples/**/*.dll
 examples/**/*.exe
@@ -11,3 +16,4 @@ examples/**/*/*.exe
 examples/**/*/*.cgi
 output
 README.html
+_ReSharper.*/

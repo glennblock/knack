@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.Test", "src\Test\Owin.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.Test.Specs", "spec\Test\Owin.Test.Specs.csproj", "{132B3085-9791-43C4-AF35-BDAD881C4243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.Handlers.Wcf", "src\Handlers\Wcf\Owin.Handlers.Wcf\Owin.Handlers.Wcf.csproj", "{F78E4B10-1E1A-440F-9812-F2F2C9C87B16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{132B3085-9791-43C4-AF35-BDAD881C4243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{132B3085-9791-43C4-AF35-BDAD881C4243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{132B3085-9791-43C4-AF35-BDAD881C4243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78E4B10-1E1A-440F-9812-F2F2C9C87B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78E4B10-1E1A-440F-9812-F2F2C9C87B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78E4B10-1E1A-440F-9812-F2F2C9C87B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78E4B10-1E1A-440F-9812-F2F2C9C87B16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

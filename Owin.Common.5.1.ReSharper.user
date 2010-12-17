@@ -1,0 +1,186 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="163A0E93-A512-4B2F-AF1A-301804749EDE/f:Application.cs" caret="196" fromTop="9" />
+      <File id="8EF793AF-AD17-49D3-8884-A8AFEC75641D/f:AspNetApplication.cs" caret="0" fromTop="0" />
+      <File id="8EF793AF-AD17-49D3-8884-A8AFEC75641D/f:AspNet.cs" caret="0" fromTop="0" />
+      <File id="8EF793AF-AD17-49D3-8884-A8AFEC75641D/f:AspNetRequest.cs" caret="1028" fromTop="13" />
+      <File id="163A0E93-A512-4B2F-AF1A-301804749EDE/f:Response.cs" caret="7329" fromTop="24" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5158" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8EF793AF-AD17-49D3-8884-A8AFEC75641D/f:AspNetRequest.cs" caret="943" fromTop="26" />
+      <File id="8EF793AF-AD17-49D3-8884-A8AFEC75641D/f:AspNetRequest.cs" caret="1047" fromTop="33" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5396" fromTop="17" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5396" fromTop="10" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5124" fromTop="20" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5403" fromTop="6" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="1618" fromTop="7" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5396" fromTop="4" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="1657" fromTop="20" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="877" fromTop="7" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5122" fromTop="15" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5196" fromTop="17" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="2817" fromTop="7" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="2817" fromTop="22" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5396" fromTop="20" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4268" fromTop="28" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="2686" fromTop="12" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4682" fromTop="10" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="457" fromTop="16" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4406" fromTop="20" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="3792" fromTop="22" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="2217" fromTop="17" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="3602" fromTop="6" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4009" fromTop="16" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4161" fromTop="21" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="4253" fromTop="25" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="1789" fromTop="16" />
+      <File id="F78E4B10-1E1A-440F-9812-F2F2C9C87B16/f:Wcf.cs" caret="5403" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IRequest`0" priority="1" />
+      <Item value="request" priority="5" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="WebOperationContext`0" priority="4" />
+      <Item value="context" priority="6" />
+      <Item value="requestTemplateMatch" priority="1" />
+      <Item value="OperationContext`0" priority="3" />
+      <Item value="DivideByZeroException`0" priority="0" />
+      <Item value="SetItems`0" priority="2" />
+      <Item value="var" priority="13" />
+      <Item value="prop" priority="0" />
+      <Item value="RemoteEndpointMessageProperty`0" priority="1" />
+      <Item value="as" priority="1" />
+      <Item value="items" priority="0" />
+      <Item value="IPAddress`0" priority="1" />
+      <Item value="endpoint" priority="4" />
+      <Item value="new" priority="4" />
+      <Item value="public" priority="10" />
+      <Item value="class" priority="3" />
+      <Item value="WebHeaderCollection`0" priority="0" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="IPEndPoint`0" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="WcfRequestFactory`0" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="null" priority="1" />
+      <Item value="ip" priority="0" />
+      <Item value="RequestInfo`0" priority="0" />
+      <Item value="requestInfo" priority="4" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="RequestFactory`0" priority="0" />
+      <Item value="_requestFactory" priority="0" />
+      <Item value="IResponse`0" priority="1" />
+      <Item value="IResponseMessageFactory`0" priority="0" />
+      <Item value="_responseFactory" priority="1" />
+      <Item value="response" priority="1" />
+      <Item value="RequestFactory" priority="0" />
+      <Item value="ResponseMessageFactory" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="item" priority="5" />
+      <Item value="is" priority="1" />
+      <Item value="byte" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="ArraySegment" priority="1" />
+      <Item value="stream" priority="3" />
+      <Item value="buffer" priority="3" />
+      <Item value="Length" priority="0" />
+      <Item value="writer" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Web.WebOperationContext">
+      <Item value="GetUriTemplate`0" priority="0" />
+      <Item value="IncomingRequest" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Web.IncomingWebRequestContext">
+      <Item value="UriTemplateMatch" priority="3" />
+      <Item value="Method" priority="0" />
+      <Item value="Headers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.UriTemplateMatch">
+      <Item value="BaseUri" priority="0" />
+      <Item value="RequestUri" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="Host" priority="0" />
+      <Item value="Port" priority="1" />
+      <Item value="Scheme" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.Web.WebOperationContext">
+      <Item value="Current" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.OperationContext">
+      <Item value="Current" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.OperationContext">
+      <Item value="RequestContext" priority="2" />
+      <Item value="IncomingMessageHeaders" priority="0" />
+      <Item value="IncomingMessageProperties" priority="0" />
+      <Item value="GetCallbackChannel`1" priority="0" />
+      <Item value="Channel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.IRequest">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Channels.RemoteEndpointMessageProperty">
+      <Item value="Address" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.Handlers.RequestInfo">
+      <Item value="ClientIP" priority="0" />
+      <Item value="Method" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="Headers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.Handlers.IRequestFactory">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.Handlers.IResponseMessageFactory">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.IResponse">
+      <Item value="GetBody`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Write`0" priority="1" />
+      <Item value="Flush`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.IContextChannel">
+      <Item value="InputSession" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ArraySegment`1">
+      <Item value="Array" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
